@@ -3,3 +3,6 @@ obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
+MaxUniqCharacters.sln
+MaxUniqCharacters/Properties
+MaxUniqCharacters/MaxUniqCharacters.csproj
